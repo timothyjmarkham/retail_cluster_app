@@ -6,11 +6,10 @@
 #
 #    http://shiny.rstudio.com/
 #
-
+install.packages("tidyverse")
+install.packages("ggplot2")
 library(shiny)
 library(civis)
-library(leaflet)
-library(tigris)
 library(tidyverse)
 library(ggplot2)
 
